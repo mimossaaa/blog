@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to this site, this teaches you how to use it!"
 date:   2025-06-07 00:07:36 -0700
 categories: jekyll update
 ---
