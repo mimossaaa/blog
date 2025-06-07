@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A sample website for nat. something like this can easily be created in an hour.
 baseurl: "/blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:mimossaaa
+github_username: mimossaaa
 
 # Build settings
 theme: minima
